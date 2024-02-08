@@ -2,7 +2,9 @@
 Провести когортный анализ.
 
 ## Данные:
-В качестве данных был взят датасет с информацией о розничных онлайн-транзакциях в период с 12.2010 по 12.2011.
+В качестве данных был взят датасет с информацией о розничных онлайн-транзакциях в период с 12.2010 по 12.2011. 
+
+[Ссылка на датасет](https://www.kaggle.com/datasets/mathchi/online-retail-ii-data-set-from-ml-repository)
 
 - InvoiceNo - уникальный номер транзакции.
 - StockCode - код товара.
@@ -13,7 +15,7 @@
 - CustomerID - ID покупателя.
 - Country - страна.
 
-Когортный анализ [здесь]()
+Когортный анализ [здесь](https://github.com/ValeriaGlushkova/Cohort-Analysis-Online-Retail/blob/main/Cohort%20Analysis.ipynb)
 
 ## Выводы:
 
