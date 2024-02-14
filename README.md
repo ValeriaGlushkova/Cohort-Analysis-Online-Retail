@@ -23,3 +23,5 @@
 
 Также удержание во всех когортах характеризуется колебаниями, что говорит о том, что часть клиентов предпочитает совершать покупки с периодичностью в несколько месяцев.
 
+![cohort](https://github.com/ValeriaGlushkova/Cohort-Analysis-Online-Retail/blob/main/output.png)
+
